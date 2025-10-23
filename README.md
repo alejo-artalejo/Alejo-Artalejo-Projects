@@ -1,4 +1,4 @@
-# Hello, I'm Alejo Artalejo
+# Hey, I'm Alejo Artalejo
 <a href="https://www.linkedin.com/in/alejo-artalejo-901055301"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m Alejo Artalejo, a CompTIA Secure Infrastructure Specialist (CSIS) certified in Security+, Network+, and A+ with hands-on experience in network infrastructure, system administration, and cybersecurity.
