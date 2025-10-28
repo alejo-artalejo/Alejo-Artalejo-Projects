@@ -55,8 +55,8 @@ To leverage my skills in network infrastructure, system administration, and cybe
 </div>
 <div>
 <h4>LPI</h4>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://raw.githubusercontent.com/alejo-artalejo/Test-Alejo-Artalejo/refs/heads/main/Linux.png)"height="100"/>
+<img src="https://github.com/alejo-artalejo/Test-Alejo-Artalejo/blob/main/AWS.png)"height="100"/>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
