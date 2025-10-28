@@ -47,20 +47,14 @@ To leverage my skills in network infrastructure, system administration, and cybe
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
-<div style="display: inline-block;">
-    <h4>CompTIA</h4>
-    <img src="https://raw.githubusercontent.com/alejo-artalejo/Test-Alejo-Artalejo/refs/heads/main/CompTIA.png" height="100"/>
-</div>
-<div>
-<h4>LPI</h4>
-<img src="https://raw.githubusercontent.com/alejo-artalejo/Test-Alejo-Artalejo/refs/heads/main/Linux.png)"height="100"/>
-<img src="https://github.com/alejo-artalejo/Test-Alejo-Artalejo/blob/main/AWS.png)"height="100"/>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+#### CompTIA
+[![Static Badge](https://img.shields.io/badge/A%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/071c4ef0-cae4-4a46-b9cb-5a2e64fc8af0/public_url)
+[![Static Badge](https://img.shields.io/badge/Network%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/d3e7559f-c645-4b26-bf2d-9fb45fe2b36f/public_url)
+[![Static Badge](https://img.shields.io/badge/Security%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/36239aa5-ee28-4455-a5ad-5a7f87ea46df/public_url)
+
+#### LPI
+[![Static Badge](https://img.shields.io/badge/Linux%20Essentials-%23118bcb?style=for-the-badge&logo=Linux%20Proffesional%20Institute&logoColor=white)](https://www.credly.com/badges/b2fc836e-4217-4e0d-b7f7-69048d12e271/public_url)
 
 ## Projects
 - Detection Lab
