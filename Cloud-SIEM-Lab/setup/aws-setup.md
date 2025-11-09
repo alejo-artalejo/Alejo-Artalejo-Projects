@@ -1,3 +1,4 @@
+
 ## AWS CloudTrail Setup
 ![CloudTrail Setup Screenshot](../documentation/cloudtrail-setup.png)
 
@@ -18,5 +19,24 @@
 - Configured with default data sources (IAM, DNS, and network activity)
 - Automatically analyzes AWS logs for anomalies such as unauthorized access or reconnaissance behavior
 - Provides detection insights that will later be ingested into the SIEM for correlation and alerting
-
+## 🖥️ EC2 Instance Overview
+![EC2 Instance Screenshot](../documentation/EC2instance-setup.png)
+- Launched **EC2 instance** named `Splunk-SIEM-Lab` to host the Splunk Enterprise server for the Cloud SIEM environment  
+- **Purpose:** Centralized analysis engine for ingesting AWS logs (CloudTrail, GuardDuty, and VPC Flow Logs)  
+- **AMI:** Ubuntu Server 22.04 LTS (x86_64)  
+- **Instance Type:** t2.medium (2 vCPU, 4 GB RAM)  
+- **Storage:** 20 GB EBS volume  
+- **Network:** Public subnet connected to an Internet Gateway  
+- **Security Group:**  
+  - SSH (TCP 22) — access from **My IP**  
+  - Splunk Web (TCP 8000) — access from **My IP**  
+- **Key Pair:** `siem-key.pem`  
+- **Connection Method:** EC2 Instance Connect (used for administrative access and Splunk configuration)  
+- **Usage:** This EC2 instance serves as the main Splunk server for collecting, storing, and analyzing AWS security data, supporting correlation, detection, and visualization within the Cloud SIEM project  
+## 🔑 Splunk Web Login
+![Splunk Web Login Screenshot](../documentation/splunk-login.png)
+- Started **Splunk Enterprise** service on the EC2 instance  
+- Verified operational status using:  
+  ```bash
+  sudo /opt/splunk/bin/splunk status
 
