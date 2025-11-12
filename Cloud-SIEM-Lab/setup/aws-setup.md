@@ -34,9 +34,10 @@
 - **Connection Method:** EC2 Instance Connect (used for administrative access and Splunk configuration)  
 - **Usage:** This EC2 instance serves as the main Splunk server for collecting, storing, and analyzing AWS security data, supporting correlation, detection, and visualization within the Cloud SIEM project  
 ## 🔑 Splunk Web Login
-![Splunk Web Login Screenshot](../documentation/splunk-login.png)
+![Splunk Web Login Screenshot](../documentation/splunklogin.png)
 - Started **Splunk Enterprise** service on the EC2 instance  
 - Verified operational status using:  
   ```bash
   sudo /opt/splunk/bin/splunk status
+- typed 'http://localhost:8000' into my web browser to get login screen
 
