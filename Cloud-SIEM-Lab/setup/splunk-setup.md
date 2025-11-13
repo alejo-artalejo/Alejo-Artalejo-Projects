@@ -1,5 +1,5 @@
 ## AWS Splunk Access Policy Setup
-![Splunk Access Policy Screenshot](../documentation/splunk-access-policy.png)
+![Splunk Access Policy Screenshot](../documentation/Splunk-User-Policy.png)
 
 - Created **IAM policy** named `SplunkAccess`
 - Policy grants Splunk permission to read S3 and SQS data needed for CloudTrail ingestion
