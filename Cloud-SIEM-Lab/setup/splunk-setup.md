@@ -52,6 +52,13 @@
 - Selected the previously configured AWS account (`splunk_access`)
 - Chose the correct AWS region and selected the `cloudtrail` SQS queue
 - Saved the input to begin automatic ingestion of CloudTrail events and proceeded to do the same steps for FlowLogs
+## Splunk AWS Dashboards Verification
+![Splunk Dashboard Screenshot](../documentation/splunk-dashboard.png)
+
+- Opened the **Splunk App for AWS** to verify successful data ingestion
+- Confirmed CloudTrail, VPC Flow Logs, and GuardDuty dashboards were populated with events
+- Observed real-time log entries coming from S3 through SQS into Splunk
+
 
 
 
