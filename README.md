@@ -15,7 +15,7 @@ To leverage my skills in network infrastructure, system administration, and cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Cloud SIEM Lab](../Cloud-SIEM-Lab)|
+| SIEM Implementation and Log Analysis          | [Cloud SIEM Lab](./Cloud-SIEM-Lab)|
 |  Coming Soon...  | N/A |
 | Coming Soon...         | N/A |
 | Coming Soon...      | N/A |
