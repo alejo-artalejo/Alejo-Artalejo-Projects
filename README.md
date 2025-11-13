@@ -15,12 +15,12 @@ To leverage my skills in network infrastructure, system administration, and cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Cloud SIEM Lab</a>|
+|  Coming Soon...  | N/A |
+| Coming Soon...         | N/A |
+| Coming Soon...      | N/A |
+| Coming Soon...                  | N/A |
+| Coming Soon... | N/A |
 
 ## Tools
 
@@ -54,5 +54,4 @@ To leverage my skills in network infrastructure, system administration, and cybe
 [![Static Badge](https://img.shields.io/badge/Linux%20Essentials-%23118bcb?style=for-the-badge&logo=Linux%20Proffesional%20Institute&logoColor=white)](https://www.credly.com/badges/b2fc836e-4217-4e0d-b7f7-69048d12e271/public_url)
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+Cloud SIEM Lab
