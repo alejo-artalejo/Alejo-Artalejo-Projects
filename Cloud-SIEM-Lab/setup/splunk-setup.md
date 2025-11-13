@@ -30,3 +30,28 @@
 - Subscribed the queue to the CloudTrail SNS topic for automatic message delivery
 - Allows Splunk to pull CloudTrail log events from SQS instead of scanning S3 directly
 - **Why:** SQS provides reliable, ordered, fault tolerant message delivery that Splunk depends on to ingest CloudTrail logs without missing or duplicating events
+## Splunk Add-on for AWS Installation
+![Splunk Add-on Installation Screenshot](../documentation/Splunk-Aws-Install.png)
+
+- Installed the **Splunk Add-on for AWS** on the Splunk instance
+- Add-on provides the required inputs to collect AWS logs such as CloudTrail, VPC Flow Logs, and GuardDuty
+- Allows creation of AWS accounts, SQS-based S3 inputs, and CloudWatch inputs inside Splunk
+## Splunk Add-on AWS Account Configuration
+![Splunk AWS Account Setup Screenshot](../documentation/AccountAdded.png)
+
+- Opened the **Splunk Add-on for AWS** and navigated to the *Configuration* tab
+- Added a new AWS account using the credentials from the `Splunk_Access` IAM user created in AWS
+- Entered the **Access Key ID** and **Secret Access Key** from the downloaded CSV file
+- Set the Region Category to **Global**
+- Saved the configuration so Splunk can securely authenticate to AWS
+## Splunk AWS Inputs Configuration
+![Splunk Inputs Setup Screenshot](../documentation/Inputs-Created.png)
+
+- Navigated to the **Inputs** tab in the Splunk Add-on for AWS
+- Created a new **CloudTrail and FlowLogs SQS-Based S3 input**
+- Selected the previously configured AWS account (`splunk_access`)
+- Chose the correct AWS region and selected the `cloudtrail` SQS queue
+- Saved the input to begin automatic ingestion of CloudTrail events and proceeded to do the same steps for FlowLogs
+
+
+
