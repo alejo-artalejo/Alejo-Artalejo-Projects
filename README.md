@@ -48,6 +48,7 @@ To leverage my skills in network infrastructure, system administration, and cybe
 [![Static Badge](https://img.shields.io/badge/A%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/071c4ef0-cae4-4a46-b9cb-5a2e64fc8af0/public_url)
 [![Static Badge](https://img.shields.io/badge/Network%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/d3e7559f-c645-4b26-bf2d-9fb45fe2b36f/public_url)
 [![Static Badge](https://img.shields.io/badge/Security%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/36239aa5-ee28-4455-a5ad-5a7f87ea46df/public_url)
+[![Static Badge](https://img.shields.io/badge/Pentest%2B-cf152d?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/36239aa5-ee28-4455-a5ad-5a7f87ea46df/public_url)
 
 
 #### LPI
