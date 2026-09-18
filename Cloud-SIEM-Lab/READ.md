@@ -1,6 +1,6 @@
 # ☁️ Cloud SIEM + Threat Detection Lab
 
-**Goal:** Build a cloud-based SIEM using AWS + Splunk/Wazuh with automated detections.
+**Goal:** Build a cloud-based SIEM using AWS + Splunk with automated detections.
 
 🔹 **Architecture:**  
 <img src="architecture/cloud-siem-diagram.png" width="600"/>
