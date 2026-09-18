@@ -54,7 +54,7 @@ To leverage my skills in network infrastructure, system administration, and cybe
 [![Static Badge](https://img.shields.io/badge/Linux%20Essentials-%23118bcb?style=for-the-badge&logo=Linux%20Proffesional%20Institute&logoColor=white)](https://www.credly.com/badges/b2fc836e-4217-4e0d-b7f7-69048d12e271/public_url)
 
 #### Cisco
-
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## Projects
 Cloud SIEM Lab
